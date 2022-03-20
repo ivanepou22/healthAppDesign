@@ -499,3 +499,22 @@ img {
     margin-bottom: 5rem;
   }
 }
+
+/*
+- Buy a domain
+- Registration(verify email and phone).
+- Voice Notes.
+- Leaving the queue and joining another queue.
+- Show the number of people in the queue.
+- FIlter doctors by speciality.
+- Change doctor's card design.
+- Buy the Api for video call and voice calls.
+- handle video call and voice calls
+- Doctor should be in position to recommend a patient to another available doctor.
+- Doctor should be able to see the patient's profile.
+- Doctor should be able to see the patient's medical history.
+- Doctor should be able to see the patient's prescription.
+- A patient should be able to capture a pic when using a system on the  phone.
+- A patient should be able to capture a video when using a system on the  phone.
+- Handling patients reviews in the system.
+*/
